@@ -1,5 +1,13 @@
 # Mettings reports
 
+**Meeting of 08/31/2017**
+With : Emilie and Marie-Laure Baranne
+
+Concerning bibliographic review : emilie accepted to be the 2nd reviewer of this work. The objectif is to publisch it.
+Future step are : create the "follow tab" which will group caracteristics of the article selected and fill it.
+
+Next weekkly meeting : monday 4 septembre 2017
+
 **Meeting of 08/21/2017**
 
 With : Medhi Benchoufi and Marie-laure Baranne
