@@ -1,4 +1,4 @@
-# Mettings reports
+# Meetings reports
 
 **Meeting of 08/31/2017**
 With : Emilie and Marie-Laure Baranne
@@ -14,7 +14,7 @@ With : Medhi Benchoufi and Marie-laure Baranne
 
 Progress of the bibliographic review : validating research terms 
 
-**Meeting of 08/07/2017 **
+**Meeting of 08/07/2017**
 
 With : Medhi Benchoufi, Pierre Bourrier, Fabien Taieb \(pasteur institute\) and Marie-Laure Baranne
 
